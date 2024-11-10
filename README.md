@@ -11,7 +11,7 @@
 | Graphics           | Integrated Intel HD 620 Graphics with 4 GB of VRAM                                                                         |
 | Memory             | 8 GB DDR4 (1x 4 GB DDR4 SODIMM + 1x 4 GB SODIMM)                                                       |
 | Display            | 14" HD (1920x1080) IPS, Non-Touch                                                                      |
-| Storage            | 1 TB Pioneer SATA SSD                                                                                  |
+| Storage            | 256 GB SATA SSD                                                                                  |
 | Ethernet           | Intel Ethernet                                                         |
 | WLAN + Bluetooth   | Intel Wifi 18265 + Bluetooth 4.0                                        |
 | Camera             | 720p resolution, low light sensitive, fixed focus                                                       |
