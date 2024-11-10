@@ -19,3 +19,15 @@
 | Keyboard           | 6-row, spill-resistant, multimedia Fn keys, LED backlight                                                 |
 | Battery            | Internal Li-Polymer 3-cell (61) and External Li-Ion 3-cell (61)                       |
 
+</br>
+
+## What working:
+- CPU Undervolting
+- Dual Battery (X220 Battery patch) 
+- Intel HD 620 Graphics
+- Power management (CPU friend data)
+- Wi-Fi
+- Bluetooth
+- USB C
+- Apple HD Audio
+- HDMI
