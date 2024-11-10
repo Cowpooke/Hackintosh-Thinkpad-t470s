@@ -16,8 +16,6 @@
 </br>
 
 ## What working:
-- CPU Undervolting
-- Dual Battery (X220 Battery patch) 
 - Intel HD 620 Graphics
 - Power management (CPU friend data)
 - Wi-Fi
