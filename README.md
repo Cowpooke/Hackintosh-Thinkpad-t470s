@@ -20,6 +20,6 @@
 - Power management (CPU friend data)
 - Wi-Fi
 - Bluetooth
-- USB C
+- Dual Battery (combined to 1 battery)
 - Apple HD Audio
 - HDMI
