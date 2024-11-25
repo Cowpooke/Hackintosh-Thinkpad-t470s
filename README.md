@@ -8,7 +8,7 @@
 | Model              | Lenovo ThinkPad T470s                                                                              |
 |:-------------------|:----------------------------------------------------------------------------------------------------------|
 | Processor          | Intel Core i5-7300U (2C, 4T,  2.6GHz / 2.71GHz) vPro                                                              
-| Graphics           | Integrated Intel HD 620 Graphics with 4 GB of VRAM                                                                         |
+| Graphics           | Integrated Intel HD 620 Graphics                                                                         |
 | Memory             | 8 GB DDR4 (1x 4 GB DDR4 SODIMM + 1x 4 GB SODIMM)                                                       |
 | Display            | 14" HD (1920x1080), Non-Touch                                                                      |
 | Storage            | 256 GB SATA SSD                                                                                  |
