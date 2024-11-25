@@ -17,9 +17,8 @@
 
 ## What working:
 - Intel HD 620 Graphics
-- Power management (CPU friend data)
+- Power management
 - Wi-Fi
-- Bluetooth
 - Dual Battery (combined to 1 battery)
 - Apple HD Audio
 - HDMI
