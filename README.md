@@ -20,5 +20,5 @@
 - Power management
 - Wi-Fi
 - Dual Battery (combined to 1 battery)
-- Apple HD Audio
+- Apple HD Audio (apple id = 15)
 - HDMI
