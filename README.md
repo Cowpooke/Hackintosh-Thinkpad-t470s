@@ -17,11 +17,15 @@
 
 ## What working:
 - Intel HD 620 Graphics
-- Power management
+- Fan control with yogaSMC
+- Power management (CPU friend data)
 - Wi-Fi
 - Dual Battery (combined to 1 battery)
-- Apple HD Audio (apple id = 29)
+- Apple HD Audio (layout id = 29)
 - HDMI
+
+## Issue
+- audio jack sometimes distorted, go to system-settings -> sound -> input to fix the audio
 
 ## Post Install
 Disable hibernation, since it doesn't work properly on hackintoshes
