@@ -15,7 +15,7 @@
 
 </br>
 
-## What working:
+## What works:
 - Intel HD 620 Graphics
 - Fan control with yogaSMC
 - Power management (CPU friend data)
@@ -23,6 +23,9 @@
 - Dual Battery (combined to 1 battery)
 - Apple HD Audio (layout id = 29)
 - HDMI
+
+## What doesn't work:
+- Fingerprint reader
 
 ## Issue
 - audio jack sometimes broken, go to system-settings -> sound -> input to fix the audio
