@@ -25,7 +25,7 @@
 - HDMI
 
 ## Issue
-- audio jack sometimes distorted, go to system-settings -> sound -> input to fix the audio
+- audio jack sometimes broken, go to system-settings -> sound -> input to fix the audio
 
 ## Post Install
 Disable hibernation, since it doesn't work properly on hackintoshes
