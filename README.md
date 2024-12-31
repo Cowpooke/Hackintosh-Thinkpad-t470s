@@ -22,3 +22,13 @@
 - Dual Battery (combined to 1 battery)
 - Apple HD Audio (apple id = 29)
 - HDMI
+
+## Post Install
+Disable hibernation, since it doesn't work properly on hackintoshes
+```
+sudo pmset autopoweroff 0
+sudo pmset powernap 0
+sudo pmset standby 0
+sudo pmset proximitywake 0
+sudo pmset tcpkeepalive 0
+```
